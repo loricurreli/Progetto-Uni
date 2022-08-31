@@ -6,6 +6,6 @@ L'applicazione prevede due tipi di accesso diversi, che sono utente semplice e a
 
 L'applicazione è stata realizzata per un progetto universitario al termine di un corso di 60 ore sui fondamenti della programmazione web. Tra le tecnologie utilizzate troviamo HTML e CSS per il rendering della pagina, Javascript, Jquery e tecniche AJAX per rendere viva l'applicazione e per la gestione asincrona della comunicazione col DATABASE, Servlet e classi JAVA per la realizzazione della comunicazione sincrona col DB, per quanto riquarda fetch, modifica e inserimento dei dati. Infine MySql per quanto riguarda la comunicazione vera è propria col DB. Il tutto è stato realizzato su macchina virtuale Linux Ubuntu, fornita dal docente universitario, dotata di PostgreSQL per la gestione del DB, Apache Netbeans come IDE e GlassFish come Server.
 
-ALl'interno del progetto è presente un file PDF con la spiegazione delle tecniche utilizzate per la realizzazione delle varie feature.
+All'interno del progetto è presente un file PDF con la spiegazione delle tecniche utilizzate per la realizzazione delle varie feature.
 
 
